@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-
-################################################################################
 from sys import argv
 from sys import exit
 from PIL import Image
