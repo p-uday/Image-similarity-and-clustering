@@ -1,18 +1,3 @@
-#!/usr/bin/env python
-
-################################################################################
-# AverageHash                                                                  #
-################################################################################
-# A program to calculate a hash of an image based on visual characteristics.   #
-# Author: David J. Oftedal.                                                    #
-#                                                                              #
-# Depends on Python Imaging Library: http://www.pythonware.com/products/pil/   #
-#                                                                              #
-# Thanks to Dr. Neal Krawetz:                                                  #
-# http://www.hackerfactor.com/blog/index.php?/archives/432-Looks-Like-It.html  #
-# for the algorithm.                                                           #
-################################################################################
-
 from sys import argv
 from sys import exit
 from PIL import Image
