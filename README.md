@@ -1,8 +1,8 @@
 **Hashing Techniques<br />**
 we use Average hashing and Difference hashing methods to find hash values corresponding to images. <br />
-Image similarity is found by comparing hash values by computing hamming distance. <br />
+Image similarity is found by computing hamming distance between hash values. <br />
 
-***Average hashing:* <br />***
+***Average hashing:<br />***
 step 1:Convert the image to grayscale.<br />
 step 2:Resize to 8x8 image.<br />
 step 3:Compute mean of pixels<br />
