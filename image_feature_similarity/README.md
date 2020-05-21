@@ -8,8 +8,8 @@
 **faiss.ipynb<br />
 annoy.ipynb<br />
 nmslib.ipynb<br />
-falconn.ipynb<br /></ br>**
-***Additional Resource***</ br>
-Determine Number of dimensions of PCA **pca_num_dimensions.ipynb**
+falconn.ipynb<br /><br/>**
+***Additional Resource***<br />
+Determine Number of dimensions of PCA **pca_num_dimensions.ipynb**<br />
 
 ![Image description](https://github.com/p-uday/Image-similarity-and-clustering/blob/master/image_feature_similarity/Ann_betchmarks.png)
