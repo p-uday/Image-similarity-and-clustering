@@ -1,3 +1,4 @@
+**Similarity Using Image Features:<br /><br />**
 **Steps to Follow:<br />**
 1-Extract features of your dataset **extract_features.ipynb**<br />
 2-Similarity search on your dataset(Nearest Neighbor Algorithm) **Similarity_search.ipynb**<br />
