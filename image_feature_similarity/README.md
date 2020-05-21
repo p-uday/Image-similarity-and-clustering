@@ -8,3 +8,5 @@
 annoy.ipynb<br />
 nmslib.ipynb<br />
 falconn.ipynb<br />**
+
+![Image description] https://github.com/p-uday/Image-similarity-and-clustering/blob/master/image_feature_similarity/Ann_betchmarks.png
