@@ -24,6 +24,12 @@ step 6:Further Reduce DCT<br />
 step 7:Calculate hash value<br /><br/>
 
 
-**Run:<br/>**
-python avghash.py path/image1.jpg path/image2.jpg<br/>
-python diffhash.py path/image1.jpg path/image2.jpg
+**Python:<br/>**
+avghash.py<br />
+diffhash.py <br /><br />
+
+**Java:<br />**
+ImagePhash.java<br />
+diffhash.java<br />
+avghash.java<br />
+
